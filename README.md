@@ -1,7 +1,7 @@
 # Flipkart Sales Dashboard Analysis
 
 ##  Project Overview
-- **Purpose**: To analyze Flipkart's sales data (Jan 1, 2019 - Dec 31, 2022) using Power BI for trend identification and actionable insights.
+- **Purpose**: To analyze Flipkart's sales data (2019 - 2022) using Power BI for trend identification and actionable insights.
 
 ##  Key Metrics
 - **Total Sales**: 12.64 million
