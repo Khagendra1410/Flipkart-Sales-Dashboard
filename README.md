@@ -16,7 +16,7 @@
 4. Breaks down profits by product categories: Technology, Office Supplies, Furniture.
 5. Lists sales figures for the top sub-categories like Bookcases, Chairs, Copiers, Phones, and Storage.
 
-
+![Image](https://github.com/user-attachments/assets/327562ef-6d54-4ad8-afd7-22484facef32)
 
 ## Insights
 1. Standard Class dominates sales, indicating a preference for economical options; low usage of Same Day and First Class suggests potential for improvement in faster shipping services.
