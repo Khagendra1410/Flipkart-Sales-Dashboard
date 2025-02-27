@@ -1,4 +1,4 @@
-# Flipkart Sales Dashboard Analysis
+# Interactive Power BI Dashboard for Flipkart Sales
 
 ##  Project Overview
 - **Purpose**: To analyze Flipkart's sales data (2019 - 2022) using Power BI for trend identification and actionable insights.
