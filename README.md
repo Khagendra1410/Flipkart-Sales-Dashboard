@@ -18,9 +18,9 @@
 
 ![Image](https://github.com/user-attachments/assets/327562ef-6d54-4ad8-afd7-22484facef32)
 
-## Insights
-1. Standard Class dominates sales, indicating a preference for economical options; low usage of Same Day and First Class suggests potential for improvement in faster shipping services.
-2. Consumer sales show a steady upward trend, indicating strong demand, while variability in Corporate and Home Office sales reflects seasonality or market conditions.
-3. High sales concentrations in North America and Europe suggest strong market potential, with underperforming regions possibly needing targeted marketing efforts.
-4. Furniture generates the highest profits (45.23%), indicating a lucrative opportunity for expansion, and Technology and Office Supplies also maintain strong profitability.
-5. Phones and Chairs are high-demand products, ideal for promotional strategies, with cross-selling opportunities among diverse top-selling products.
+## 4. Insights
+1. Standard Class leads in sales; low use of Same Day and First Class indicates improvement opportunities.
+2. Consumer sales trending upward; Corporate and Home Office show seasonal variability.
+3. Strong sales in North America and Europe; underperforming regions need targeted marketing.
+4. Furniture has the highest profit margin (45.23%); Technology and Office Supplies also perform well.
+5. Phones and Chairs are popular; potential for promotional strategies and cross-selling.
